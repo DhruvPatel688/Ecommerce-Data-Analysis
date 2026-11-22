@@ -1,4 +1,5 @@
-[Ecommerce_Report.pdf](https://github.com/user-attachments/files/35227320/Ecommerce_Report.pdf)
+[Ecommerce_Report.pdf](https://github.com/user-attachments/files/35227320/Ecommerce_Report.pdf): https://datastudio.google.com/reporting/296c1612-8d8e-4ad6-ad99-cf53784f9bbf
+
 # E-Commerce Operations & Fulfillment Data Warehouse
 
 An end-to-end cloud data warehouse, automated data quality framework, statistical root-cause analysis, and executive BI dashboard built on **Google BigQuery**, **Python**, and **Looker Studio** using Google's public `thelook_ecommerce` dataset.
